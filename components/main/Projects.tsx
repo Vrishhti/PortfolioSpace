@@ -18,7 +18,7 @@ const Projects = () => {
         />
         <ProjectCard
           src="/CardImage.png"
-          title="Interactive Website Cards"
+          title="Xpense- Budget Tracker"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
         />
         <ProjectCard
